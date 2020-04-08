@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	email = wjlbmw@gmail.com
+	name = Jiali Wang
+[remote "origin"]
+	url = git@github.com:jialiw/Docker-complex-app-init.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
